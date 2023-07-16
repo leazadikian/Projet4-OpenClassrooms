@@ -12,6 +12,6 @@ Nous travaillons pour la ville de Seattle. Pour atteindre son objectif de ville 
 * Tester différents modèles de prédiction afin de répondre au mieux à la problématique.
 
 **Description des dossiers et fichiers :**
-* **Notebook** de l'analyse exploratoire mis au propre et annoté.
-* **Un Notebook** pour chaque prédiction (émissions de CO2 et consommation totale d’énergie) des différents tests de modèles mis au propre, dans lequel nous identifions clairement le modèle final choisi.
-* **support** de présentation pour la soutenance, comprenant : Rappel de la problématique et présentation du jeu de données, la Présentation du feature engineering, l'explication de l’approche de modélisation et présentation des résultats.
+* **Notebook** de l'analyse exploratoire.
+* **Un Notebook** pour chaque prédiction (émissions de CO2 et consommation totale d’énergie) des différents tests de modèles, dans lequel nous identifions le modèle final choisi.
+* **support** de présentation pour la soutenance, comprenant : rappel de la problématique et présentation du jeu de données, présentation du feature engineering, explication de l’approche de modélisation et présentation des résultats.
